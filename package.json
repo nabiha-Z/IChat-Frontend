@@ -1,0 +1,38 @@
+{
+  "name": "ichat",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "async-hooks-storage": "^1.0.1",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "cookie": "^0.5.0",
+    "daisyui": "^2.51.6",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.4",
+    "js-cookie": "^3.0.5",
+    "next": "13.3.4",
+    "next-auth": "^4.22.1",
+    "nookies": "^2.5.2",
+    "particles-bg": "^2.5.5",
+    "passport-jwt": "^4.0.1",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scroll-motion": "^0.3.2",
+    "react-toastify": "^9.1.2",
+    "socket.io-client": "^4.6.1",
+    "tailwindcss": "3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.17"
+  }
+}

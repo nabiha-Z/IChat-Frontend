@@ -1,0 +1,10 @@
+export const BASE_URL = "http://localhost:5000";
+export const REGISTERURL = "/user/register";
+export const LOGINURL = "/user/login";
+export const LOGOUTURL = "/user/logout";
+export const AUTHORIZEUSER = "/user/authorize";
+export const ALLUSERS = "/user";
+export const USERCHATSURL = "/chat/user";
+export const NEWCONVERSATIONURL = "/chat/create";
+export const OAUTH = "/user/o-auth";
+export const CONVERSATION = (rid) => `/chat/conversation/${rid}`;
